@@ -1,0 +1,19 @@
+Evento nao tratado!
+Evento nao tratado!
+Evento nao tratado!
+t=0: dentro
+t=1 fora 
+t=2 mouseUP
+t=0: dentro
+t=1 fora 
+t=2 mouseUP
+t=0, fora, posX: 379, mouseX: 393 t=0, fora, posY: 260, mouseY: 276
+t=0 fora 
+t=2 mouseUP
+t=0 fora 
+t=0, fora, posX: 499, mouseX: 511 t=0, fora, posY: 230, mouseY: 248
+t=0, fora, posX: 499, mouseX: 511 t=0, fora, posY: 230, mouseY: 248
+t=0 fora 
+t=2 mouseUP
+Evento nao tratado!
+Evento nao tratado!

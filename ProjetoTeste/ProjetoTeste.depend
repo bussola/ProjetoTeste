@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1400027923 source:c:\bussola\tecnologia em jogos digitais\2014 - 1 semestre\pi\tower teste\projetoteste\teste.cpp
+	<SDL/SDL.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<SDL/SDL_gfxPrimitives.h>
+
+1399685251 source:c:\bussola\tecnologia em jogos digitais\2014 - 1 semestre\pi\tower teste\projetoteste\classe.cpp
+
